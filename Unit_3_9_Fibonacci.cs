@@ -1,6 +1,7 @@
 ﻿// Fibonacci series up to a number inputted by user.
 // Name : Ayush Kapadiya
-// Enrollment number : 92400527061
+// Enrollment number : 92400527008
+
 
 using System;
 
